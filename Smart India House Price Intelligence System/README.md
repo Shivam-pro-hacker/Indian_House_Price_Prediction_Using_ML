@@ -26,6 +26,19 @@ non-linear relationships better than linear models.
 
 ---
 
+## 📊 Dataset
+
+The dataset used in this project is not included in the repository due to
+GitHub file size limits.
+
+You can download the dataset from Kaggle:
+[https://www.kaggle.com/](https://www.kaggle.com/datasets/ankushpanday1/india-house-price-prediction)
+
+After downloading, rename it (india_house_price) place the CSV file inside the `data/` folder
+before running the training scripts.
+
+---
+
 ## 🗂️ Features Used
 
 - Area (square feet)
@@ -68,4 +81,5 @@ streamlit run app.py
 ⚠️ Disclaimer
 The predicted prices are approximate market estimates based on historical data. Actual prices may vary due to market conditions, negotiation, and other factors.
 👤 Author
+
 Shivam
